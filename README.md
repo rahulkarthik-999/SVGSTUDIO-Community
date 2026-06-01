@@ -243,4 +243,4 @@ Open an issue on [GitHub Issues](https://github.com/rahulkarthik-999/SVGSTUDIO-C
 
 ## License
 
-Apache 2.0 — see [LICENSE](LICENSE).
+Apache 2.0 — see [LICENSE](LICENSE). 
